@@ -1,5 +1,2 @@
 # Web-Search-Engine
-
-This is a Web Data Crawling, Collection, and Storage project. I used MYSQL to store and collect the Crawling Data. 
-This project has developed using PHP, HTML, CSS, and Bootstrap.
-I did this project under the requirement of my graduate course " Data Engineering and Management".
+This project focuses on web data crawling, collection, and storage, developed as part of my graduate course “Data Engineering and Management.” I built the system using PHP for backend processing, with HTML, CSS, and Bootstrap for the frontend interface. Crawled data is collected and stored in a MySQL database, enabling structured storage and easy access for analysis. The project demonstrates practical skills in data extraction and management using web technologies.
